@@ -6,7 +6,7 @@ A simple **RESTful API**, contains **CRUD** operations on **Node.JS** and an int
 The user can simply **create/use an account** in order to manage his/her e-commerce store. <br>
 The user can **Create/Update/Delete** a product or receive an order.
 
-## RESTful Api [LiveOn](https://node-shop-ws.herokuapp.com)
+## RESTful Api [LiveOn](https://node-shop-ws.herokuapp.com/products)
 - CRUD operations
 - Authentication with JWT
 - Restricted Access
